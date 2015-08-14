@@ -14,3 +14,8 @@
  * CASE: Corsair Vengeance C70 Gunmetal Black
  * HDD: OCZ Vertex 3 SSD 2.5" 256GB
  * MONITORS: 2x DELL U2713HM
+
+### Issues
+ * USB3 causes random freezes
+   * Solution: disable USB3 ports via USB (until I figure it out)
+     * Another possible solution, using clover 
