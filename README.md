@@ -3,6 +3,7 @@
 ### Notes:
  * OS: Yosemite 10.10.4
  * Loader: Mutlibeast 7.4.0
+ * System Definition: iMac14,2
 
 ### Spec
  * CPU: Intel Core i7-4790K
