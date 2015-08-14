@@ -19,4 +19,5 @@
 ### Issues
  * USB3 causes random freezes
    * Solution: disable USB3 ports via USB (until I figure it out)
-     * Another possible solution, using clover 
+     * Another possible solution, using clover
+ * NIC: Realtek LAN card is not used. (I'm using only the Intel E1000e anyway)
