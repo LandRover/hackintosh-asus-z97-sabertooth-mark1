@@ -12,5 +12,5 @@
  * CPU: Cooling: Corsair Hydro H105 240mm Extreme Performance
  * PSU: ENERMAX INFINITI EIN650AWT 650W ATX12V / 80 PLUS Certified Modular Active PFC Power Supply
  * CASE: Corsair Vengeance C70 Gunmetal Black
- * HDD: OCZ Vertex 3 SSD 2.5"
+ * HDD: OCZ Vertex 3 SSD 2.5" 256GB
  * MONITORS: 2x DELL U2713HM
