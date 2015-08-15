@@ -9,7 +9,7 @@
 	<key>IGPEnabler</key>
 	<string>Yes</string>
 	<key>Kernel Flags</key>
-	<string>kext-dev-mode=1 -gux_defer_usb2 -gux_no_idle</string>
+	<string>kext-dev-mode=1 -gux_defer_usb2 -gux_no_idle -gux_nosleep</string>
 	<key>Legacy Logo</key>
 	<string>Yes</string>
 	<key>Timeout</key>
