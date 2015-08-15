@@ -1,8 +1,8 @@
 # hackintosh
 
 ### Notes:
- * OS: Yosemite 10.10.4
- * Loader: Mutlibeast 7.4.0
+ * OS: Yosemite 10.10.5
+ * Loader: Mutlibeast 7.4.1
  * System Definition: iMac14,2
 
 ### Spec
