@@ -16,7 +16,7 @@
  * PSU: ENERMAX INFINITI EIN650AWT 650W ATX12V / 80 PLUS Certified Modular Active PFC
  * CASE: Corsair Vengeance C70 Gunmetal Black
  * HDD: OCZ Vertex Plus R2 240GB 2.5" SSD
- * MONITORS: 2x DELL U2713HM DP
+ * MONITORS: 2x DELL U2713HM DP1.2
 
 ### Issues
  * USB3 causes random freezes
