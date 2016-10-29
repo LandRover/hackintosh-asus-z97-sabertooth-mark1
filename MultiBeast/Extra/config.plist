@@ -87,8 +87,11 @@
 	<dict>
 		<key>Hide</key>
 		<array>
-			<string>Windows</string>
 			<string>\EFI\BOOT\BOOTX64.EFI</string>
+			<string>\EFI\BOOT\BOOTIA32.EFI</string>
+			<string>84337757-A4E8-4630-B7A9-3258ADEAD742</string>
+			<string>57124CD5-D502-47A4-84F4-8D451DBF44C2</string>
+			<string>DB029D7B-FAC9-4222-80E1-AA6F39F81115</string>
 		</array>
 		<key>Language</key>
 		<string>en:0</string>
@@ -101,7 +104,7 @@
 			<key>Mirror</key>
 			<false/>
 			<key>Speed</key>
-			<integer>8</integer>
+			<integer>6</integer>
 		</dict>
 		<key>Scan</key>
 		<dict>
@@ -153,22 +156,6 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>AppleHDA/Resources/xml&gt;zml</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				eG1sLnps
-				</data>
-				<key>Name</key>
-				<string>AppleHDA</string>
-				<key>Replace</key>
-				<data>
-				em1sLnps
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>10.12-AppleHDA/Realtek ALC...</string>
 				<key>Disabled</key>
 				<false/>
@@ -197,6 +184,22 @@
 				<key>Replace</key>
 				<data>
 				AAnsEA==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>AppleHDA/Resources/xml&gt;zml</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				eG1sLnps
+				</data>
+				<key>Name</key>
+				<string>AppleHDA</string>
+				<key>Replace</key>
+				<data>
+				em1sLnps
 				</data>
 			</dict>
 			<dict>
