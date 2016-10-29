@@ -4,6 +4,7 @@
  * OS: Yosemite 10.12.1
  * Loader: Mutlibeast 9.0.1
  * System Definition: iMac14,2
+ * Clover Revision: 3882
 
 
 ### Rig Spec
