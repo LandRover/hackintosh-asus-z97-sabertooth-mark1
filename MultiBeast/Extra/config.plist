@@ -203,11 +203,11 @@
 		</dict>
 		<key>Hide</key>
 		<array>
-			<string>\EFI\BOOT\BOOTX64.EFI</string>
-			<string>57124CD5-D502-47A4-84F4-8D451DBF44C2</string>
 			<string>84337757-A4E8-4630-B7A9-3258ADEAD742</string>
-			<string>DB029D7B-FAC9-4222-80E1-AA6F39F81115</string>
 			<string>26D4B784-8C7E-4B50-B871-3BCC40B5E967</string>
+			<string>\EFI\BOOT\BOOTX64.EFI</string>
+			<string>DB029D7B-FAC9-4222-80E1-AA6F39F81115</string>
+			<string>57124CD5-D502-47A4-84F4-8D451DBF44C2</string>
 		</array>
 		<key>Language</key>
 		<string>en:0</string>
@@ -236,7 +236,7 @@
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
 		<key>Theme</key>
-		<string>embedded</string>
+		<string>tonymacx86</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -272,38 +272,6 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>10.12-AppleHDA/Realtek ALC...</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				ihnUEQ==
-				</data>
-				<key>Name</key>
-				<string>AppleHDA</string>
-				<key>Replace</key>
-				<data>
-				AAAAAA==
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>10.9-10.12-AppleHDA/Realtek ALC1150</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				ixnUEQ==
-				</data>
-				<key>Name</key>
-				<string>AppleHDA</string>
-				<key>Replace</key>
-				<data>
-				AAnsEA==
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>External icons patch</string>
 				<key>Disabled</key>
 				<false/>
@@ -320,6 +288,22 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>10.12-AppleHDA/Realtek ALC...</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				ihnUEQ==
+				</data>
+				<key>Name</key>
+				<string>AppleHDA</string>
+				<key>Replace</key>
+				<data>
+				AAAAAA==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>AppleHDA/Resources/xml&gt;zml</string>
 				<key>Disabled</key>
 				<false/>
@@ -332,6 +316,22 @@
 				<key>Replace</key>
 				<data>
 				em1sLnps
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>10.9-10.12-AppleHDA/Realtek ALC1150</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				ixnUEQ==
+				</data>
+				<key>Name</key>
+				<string>AppleHDA</string>
+				<key>Replace</key>
+				<data>
+				AAnsEA==
 				</data>
 			</dict>
 		</array>
