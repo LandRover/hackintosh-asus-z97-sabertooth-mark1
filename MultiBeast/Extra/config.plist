@@ -85,13 +85,129 @@
 	</array>
 	<key>GUI</key>
 	<dict>
+		<key>Custom</key>
+		<dict>
+			<key>Entries</key>
+			<array>
+				<dict>
+					<key>Disabled</key>
+					<false/>
+					<key>FullTitle</key>
+					<string>Windows 10 EFI</string>
+					<key>Ignore</key>
+					<false/>
+					<key>Type</key>
+					<string>Windows</string>
+					<key>Volume</key>
+					<string>9812CF80-590A-4644-9A50-2854FA0EF241</string>
+					<key>VolumeType</key>
+					<string>Internal</string>
+				</dict>
+				<dict>
+					<key>Disabled</key>
+					<false/>
+					<key>FullTitle</key>
+					<string>Sierra</string>
+					<key>Ignore</key>
+					<false/>
+					<key>NoCaches</key>
+					<false/>
+					<key>Type</key>
+					<string>OSX</string>
+					<key>Volume</key>
+					<string>ECCC3A95-62A8-4465-A418-73BF299C860E</string>
+					<key>VolumeType</key>
+					<string>Internal</string>
+				</dict>
+				<dict>
+					<key>Disabled</key>
+					<false/>
+					<key>FullTitle</key>
+					<string>Sierra Recovery</string>
+					<key>Ignore</key>
+					<false/>
+					<key>NoCaches</key>
+					<false/>
+					<key>Type</key>
+					<string>OSXRecovery</string>
+					<key>Volume</key>
+					<string>8F9FAD6B-4816-4795-A99B-B379F759DAE6</string>
+					<key>VolumeType</key>
+					<string>Internal</string>
+				</dict>
+				<dict>
+					<key>Disabled</key>
+					<true/>
+					<key>FullTitle</key>
+					<string>Windows 10 Reserved</string>
+					<key>Ignore</key>
+					<true/>
+					<key>NoCaches</key>
+					<false/>
+					<key>Type</key>
+					<string>Other</string>
+					<key>Volume</key>
+					<string>DB029D7B-FAC9-4222-80E1-AA6F39F81115</string>
+					<key>VolumeType</key>
+					<string>Internal</string>
+				</dict>
+				<dict>
+					<key>Disabled</key>
+					<true/>
+					<key>FullTitle</key>
+					<string>Windows 10 Data</string>
+					<key>Ignore</key>
+					<true/>
+					<key>NoCaches</key>
+					<false/>
+					<key>Type</key>
+					<string>Other</string>
+					<key>Volume</key>
+					<string>57124CD5-D502-47A4-84F4-8D451DBF44C2</string>
+					<key>VolumeType</key>
+					<string>Internal</string>
+				</dict>
+				<dict>
+					<key>Disabled</key>
+					<true/>
+					<key>FullTitle</key>
+					<string>Windows 10 Recovery</string>
+					<key>Ignore</key>
+					<true/>
+					<key>NoCaches</key>
+					<false/>
+					<key>Type</key>
+					<string>Other</string>
+					<key>Volume</key>
+					<string>84337757-A4E8-4630-B7A9-3258ADEAD742</string>
+					<key>VolumeType</key>
+					<string>Internal</string>
+				</dict>
+				<dict>
+					<key>Disabled</key>
+					<true/>
+					<key>FullTitle</key>
+					<string>Sierra EFI</string>
+					<key>Ignore</key>
+					<true/>
+					<key>NoCaches</key>
+					<false/>
+					<key>Type</key>
+					<string>Other</string>
+					<key>Volume</key>
+					<string>0E239BC6-F960-3107-89CF-1C97F78BB46B</string>
+					<key>VolumeType</key>
+					<string>Internal</string>
+				</dict>
+			</array>
+		</dict>
 		<key>Hide</key>
 		<array>
 			<string>\EFI\BOOT\BOOTX64.EFI</string>
-			<string>\EFI\BOOT\BOOTIA32.EFI</string>
-			<string>84337757-A4E8-4630-B7A9-3258ADEAD742</string>
 			<string>57124CD5-D502-47A4-84F4-8D451DBF44C2</string>
+			<string>84337757-A4E8-4630-B7A9-3258ADEAD742</string>
 			<string>DB029D7B-FAC9-4222-80E1-AA6F39F81115</string>
+			<string>26D4B784-8C7E-4B50-B871-3BCC40B5E967</string>
 		</array>
 		<key>Language</key>
 		<string>en:0</string>
@@ -120,7 +236,7 @@
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
 		<key>Theme</key>
-		<string>tonymacx86</string>
+		<string>embedded</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -188,22 +304,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>AppleHDA/Resources/xml&gt;zml</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				eG1sLnps
-				</data>
-				<key>Name</key>
-				<string>AppleHDA</string>
-				<key>Replace</key>
-				<data>
-				em1sLnps
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>External icons patch</string>
 				<key>Disabled</key>
 				<false/>
@@ -216,6 +316,22 @@
 				<key>Replace</key>
 				<data>
 				SW50ZXJuYWw=
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>AppleHDA/Resources/xml&gt;zml</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				eG1sLnps
+				</data>
+				<key>Name</key>
+				<string>AppleHDA</string>
+				<key>Replace</key>
+				<data>
+				em1sLnps
 				</data>
 			</dict>
 		</array>
@@ -253,6 +369,11 @@
 		<string>iMac</string>
 		<key>Manufacturer</key>
 		<string>Apple Inc.</string>
+		<key>Memory</key>
+		<dict>
+			<key>Channels</key>
+			<integer>0</integer>
+		</dict>
 		<key>ProductName</key>
 		<string>iMac14,2</string>
 		<key>SerialNumber</key>
