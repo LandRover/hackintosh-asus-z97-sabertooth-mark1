@@ -9,7 +9,7 @@
 
 ### Rig Spec
  * CPU: Intel Core i7-4790K
- * MOBO: Asus z97 Sabertooth Mark 1 (2701 Bios)
+ * MOBO: Asus z97 Sabertooth Mark 1 (3503 Bios)
  * RAM: Kingston HyperX Beast (T3) - 32GB (4x8GB) - DDR3 1600MHz CL9 (KHX16C9T3K2/16X)
  * GFX 
    * EVGA 06G-P4-4995-KR GeForce GTX 980 Ti 6GB 384-Bit GDDR5 SC w/ACX & Back Plate
