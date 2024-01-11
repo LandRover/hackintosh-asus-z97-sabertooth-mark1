@@ -8,16 +8,12 @@
 
 
 ### Rig Spec
- * CPU: Intel Core i9-10850K
- * MOBO: Asus TUF GAMING Z590-PLUS Wifi (1203 Bios)
- * RAM: G.Skill Trident Z RGB 2x16GB DDR4 3200Mhz CL16
- * GFX 
-   * EVGA 06G-P4-4995-KR GeForce GTX 980 Ti 6GB 384-Bit GDDR5 SC w/ACX & Back Plate
-   * (OLD: Sapphire HD 7950 OC Vapor-X 3GB GDDR5)
- * CPU: Cooling: Corsair Hydro H105 240mm Extreme Performance (Fans: Noctua NF-A12x25 LS-PWM)
- * PSU
-   * SeaSonic 760W 80+ Platinum SS-760XP2
-   * (OLD: ENERMAX INFINITI EIN650AWT 650W ATX12V / 80 PLUS Certified Modular Active PFC)
+ * CPU: Intel Core i9-14900KF
+ * MOBO: ASUS Prime Z790-A Wifi LGA1700 DDR5 (1604 Bios)
+ * RAM: G.Skill Trident Z5 RGB DDR5-6400 CL32-39-39-102 1.40V 64GB (2x32GB)
+ * GFX: EVGA GeForce RTX 2080 Ti XC Ultra 11GB GDDR6 GPU 11G-P4-2382-KR (22GB modded, 11x Samsung Chips K4ZAF325BM-HC14)
+ * CPU Cooling: Corsair iCUE H100i ELITE LCD XT Display 240mm (Fans: Noctua NF-A12x25 LS-PWM)
+ * PSU: SeaSonic 760W 80+ Platinum SS-760XP2
  * CASE: Corsair Vengeance C70 Gunmetal Black
  * HDD: Samsung 980 PRO M.2 NVMe 250GB SSD MZ-V8P250BW
  * MONITORS: 2x DELL U2713HM DP1.2
