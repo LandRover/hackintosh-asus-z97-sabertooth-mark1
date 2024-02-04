@@ -9,13 +9,13 @@
 
 ### Rig Spec
  * CPU: Intel Core i9-14900KF
- * MOBO: ASUS Prime Z790-A Wifi LGA1700 DDR5 (1604 Bios)
+ * MOBO: ASUS ROG MAXIMUS Z790 FORMULA Intel LGA1700 B790 DDR5 (0801 Bios)
  * RAM: G.Skill Trident Z5 RGB DDR5-6400 CL32-39-39-102 1.40V 64GB (2x32GB) (F5-6400J3239G32GX2-TZ5RS)
  * GFX: EVGA GeForce RTX 2080 Ti XC Ultra 11GB GDDR6 GPU 11G-P4-2382-KR (22GB modded, 11x Samsung Chips K4ZAF325BM-HC14)
- * CPU Cooling: Corsair iCUE H100i ELITE LCD XT Display 240mm (Fans: Noctua NF-A12x25 LS-PWM)
- * PSU: SeaSonic 760W 80+ Platinum SS-760XP2
- * CASE: Corsair Vengeance C70 Gunmetal Black
- * HDD: Samsung 980 PRO M.2 NVMe 250GB SSD MZ-V8P250BW
+ * CPU Cooling: ASUS ROG Ryujin III 360 ARGB (Fans: Noctua NF-A12x25 LS-PWM)
+ * PSU: ASUS ROG Thor 1000W Platinum II (with CableMod RT-Series Pro ModMesh Sleeved 12VHPWR Dual Cable Kit)
+ * CASE: ROG Hyperion GR701
+ * HDD: Samsung 990 PRO NVMe M.2 2280 2TB
  * MONITORS: 2x DELL U2713HM DP1.2
 
 
